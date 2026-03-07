@@ -1,0 +1,2 @@
+split,domain,mae,rmse,r2
+holdout,hutchinson2023enhancement_singletm1_igg.csv,1.5666102170944214,1.9747657775878906,-0.44162707571235815

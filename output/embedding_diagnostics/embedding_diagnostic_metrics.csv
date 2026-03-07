@@ -1,0 +1,2 @@
+n_rows,n_studies,same_study_knn10_rate,knn10_y_smoothness_corr,pca_explained_var_50
+1311,20,0.8186117467581998,0.6750053055121491,0.9696545600891113

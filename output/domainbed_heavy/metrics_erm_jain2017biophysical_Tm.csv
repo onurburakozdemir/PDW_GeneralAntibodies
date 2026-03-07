@@ -1,0 +1,2 @@
+split,domain,mae,rmse,r2
+holdout,jain2017biophysical_Tm.csv,6.573398113250732,8.42344856262207,-1.080466118393311

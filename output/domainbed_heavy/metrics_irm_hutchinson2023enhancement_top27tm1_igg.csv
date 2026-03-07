@@ -1,0 +1,2 @@
+split,domain,mae,rmse,r2
+holdout,hutchinson2023enhancement_top27tm1_igg.csv,1.9691120386123657,2.825273275375366,-0.2304527703104169

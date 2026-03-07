@@ -1,0 +1,283 @@
+        
+               
+                 
+                              
+          
+     3\02/
+SOURCE
+SOFTWARE
+TRANSFORMS
+PROTEIN
+   STRUCTURES
+STUNNING
+VISUALI]ATIONS
+   TOOLKIT
+E[PLORING
+PROTEINS
+UNDERSTANDING
+   INTERACT
+CREATING
+PUBLICATION
+IMAGES
+      MOLECULAR
+COMPLE[ES
+THROUGH
+INTUITIVE
+INTERFACE
+                             
+          F
+           3\MOL
+INSTALLATION
+TUTORIAL
+          
+           7O
+TUTORIAL
+       
+     &ONCRETEL\
+ALLOWS
+BIOENGINEERS
+VISUALISE
+   MANIPULATE
+ANAL\SE
+STURCTURES
+PROTEINS
+    DO
+USEFUL
+THINGS
+MERGING
+             
+USEFUL
+      G
+            G
+           
+                   
+         
+                    
+           
+            $
+             
+     F
+                        <OUR
+PROTEIN
+        |
+                        
+INTERACTIVE
+BUTTONS
+                     $
+$CTION
++ +IDE
+                       _
+/ /ABEL
+        |
+                      +ERE
+SELECT
+                       \OU
+PROTEIN
+                          SEQUENCE
+            |
+                                &OMMAND
+0ETHODS
+                                 
+                                 
+SEQUENCE
+VIEWER
+SEQYVIEW
+                                  TO
+VISUALISE
+TOGGLE
+                                 
+GETYFASTASTR
+                                  
+REPLACE
+OBJECT
+SELECTION
+                                  
+                                 
+RESIDUES
+SELECTION
+ITERATE
+                                  \OURYSELECTION
+REPLACE
+SEECTION
+                                  NAME
+PRINTS
+LETTER
+CODES
+            |
+                                       6PACE
+SEPARATION
+      
+             p
+            <OU
+             SELECTION
+CLICKING
+              0\YFIRSYSELECTION
+          
+            0
+       
+9ISUALISATION
+IMPORTANT
+REGIONS
+          %INDING
+$CTIVE
+CAVITIES
+  &OMMAND
+   *8,
+SURFACE
+SELECT
+RESIDUES
+SEQUENCE
+STICKS
+          
+            0
+       
+9ISUAL
+INSPECTION
+PROTEIN
+PROTEIN
+INTERFACES
+  &OMMAND
+          5EVEALS
+BURIED
+SURFACES
+CONTACTS
+               *
+             
+          
+9ISUALI]ING
+PROPOSED
+MUTATIONS
+  &OMMAND
+     *8,
+      
+                               *
+                          
+               
+&HECKING
+0UTATION
+,MPACT
+&ONTACTS
+                                                        :HAT
+    &OMMAND
+                                                          
+RESIDUES
+BUMPING
+9ISUALISE
+NEIGHBOURS
+AROUND
+MUTATION
+                                                           EACH
+STERIC
+                                                           CLASH
+                                                          
+ <ELLOW
+RESIDUES
+                                                           GOOD
+SPACING
+                                                           CONTACT
+                                                          
+FORMING
+           *8,
+                                                           STABILI]ING
+E[CELLENT
+             
+                         *
+                     
+6URFACE
+$NAL\SIS
+3ROTEIN
+3ROTEIN
+,NTERFACES
+COMPLE[ES
+              
+ANTIBOD\
+ANTIGEN
+EN]\ME
+SUBSTRATE
+   &OMMAND
+ 2RANGE
+STICKS
+CONTACT
+   ]ONE
+INTERFACE
+RESIDUES
+ 6URFACE
+OVERLAP
+BURIED
+   AREA
+INTERACTION
+STRENGTH
+SURFACE
+   POTENTIAL
+BINDING
+POCKET
+                         *
+                     
+              
+,DENTIF\ING
+&LASHES
+*EOMETR\
+,SSUES
+   &OMMAND
+DETECTION
+        *8,
+   8SE
+SCULPTING
+          
+       CLASHES
+               *
+             
+        
+,DENTIF\ING
+&LASHES
+*EOMETR\
+,SSUES
+  &OMMAND
+RELA[ATION
+                         *
+                     
+            
+0ULTIPLE
+6TRUCTURE
+$LIGNMENT
+                            DESIGN
+    &OMMAND
+  &OMPLETE
+STRUCTURAL
+      ALIGNMENT
+     ([PECTED
+'ESIGN
+OVERLA\
+&ONSOLE
+SIMILAR
+   6PECIFIC
+RESIDUE
+    ALIGNMENT
+    BINDING
+SITES
+               *
+             
+       
+EFFECTIVEL\
+VISUALISE
+STRUCTURAL
+                ALIGNMENT
+  &OMMAND
+   1OW
+DESIGN
+                  ALL
+             
+      ,F
+QUESTIONS
+COACHES
+AROUND
+     %87
+%EFORE
+ASKING
+THROUGH
+ *OOGLE
+FAVOURITE
+NOTHING
+KNOWING
+COACHES
+                             

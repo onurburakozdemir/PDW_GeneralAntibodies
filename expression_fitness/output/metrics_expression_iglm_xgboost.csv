@@ -1,0 +1,2 @@
+n_total,n_train,n_val,n_test,holdout_assay,test_mae,test_rmse,test_r2,best_max_depth,best_learning_rate,best_subsample,best_colsample_bytree,best_reg_lambda,best_iteration
+15476,9234,1967,4275,koenig2017mutational_er_g6.csv,156.81602478027344,156.99221801757812,-75571.14805849214,6,0.05,0.8,0.8,2.0,68

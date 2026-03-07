@@ -1,0 +1,22 @@
+file,n_rows,n_cols,columns,heavy_candidates,light_candidates,seq_generic,target_candidates,target_stats,missing_heavy,missing_light
+garbinski2023_tm1.csv,86,4,heavy|light|Tm1 (nanoDSF)|fitness,heavy,light,,Tm1 (nanoDSF),"{'Tm1 (nanoDSF)': {'n': 86, 'min': 35.2, 'max': 76.8, 'mean': 57.739534883720935}}",0,0.0
+hie2023efficient_C143_Tm.csv,2,8,Antibody|heavy|light|HC_mut|LC_mut|Design|Tm|fitness,heavy|HC_mut,light|LC_mut,,Tm,"{'Tm': {'n': 2, 'min': 68.38333333, 'max': 70.57666667, 'mean': 69.47999999999999}}",0,0.0
+hie2023efficient_MEDIUCA_Tm.csv,6,8,Antibody|heavy|light|HC_mut|LC_mut|Design|Tm|fitness,heavy|HC_mut,light|LC_mut,,Tm,"{'Tm': {'n': 6, 'min': 71.12666667, 'max': 84.06333333, 'mean': 75.55388888833335}}",0,0.0
+hie2023efficient_MEDI_Tm.csv,2,8,Antibody|heavy|light|HC_mut|LC_mut|Design|Tm|fitness,heavy|HC_mut,light|LC_mut,,Tm,"{'Tm': {'n': 2, 'min': 85.68666667, 'max': 88.17333333, 'mean': 86.93}}",0,0.0
+hie2023efficient_REGN10987_Tm.csv,8,8,Antibody|heavy|light|HC_mut|LC_mut|Design|Tm|fitness,heavy|HC_mut,light|LC_mut,,Tm,"{'Tm': {'n': 8, 'min': 74.82666667, 'max': 80.17333333, 'mean': 77.89333333375001}}",0,0.0
+hie2023efficient_S309_Tm.csv,10,8,Antibody|heavy|light|HC_mut|LC_mut|Design|Tm|fitness,heavy|HC_mut,light|LC_mut,,Tm,"{'Tm': {'n': 10, 'min': 72.28, 'max': 75.63666667, 'mean': 73.93166666699997}}",0,0.0
+hie2023efficient_mAb114UCA_Tm.csv,2,8,Antibody|heavy|light|HC_mut|LC_mut|Design|Tm|fitness,heavy|HC_mut,light|LC_mut,,Tm,"{'Tm': {'n': 2, 'min': 74.52333333, 'max': 82.53333333, 'mean': 78.52833333000001}}",0,0.0
+hie2023efficient_mAb114_Tm.csv,7,8,Antibody|heavy|light|HC_mut|LC_mut|Design|Tm|fitness,heavy|HC_mut,light|LC_mut,,Tm,"{'Tm': {'n': 7, 'min': 74.25333333, 'max': 81.85333333, 'mean': 77.90428571428572}}",0,0.0
+hutchinson2023enhancement_multitm1_igg.csv,15,4,heavy|light|Tm1 (°C) IgG Thermostability|fitness,heavy,light,,Tm1 (°C) IgG Thermostability,"{'Tm1 (°C) IgG Thermostability': {'n': 15, 'min': 62.6, 'max': 68.5, 'mean': 65.68666666666667}}",0,0.0
+hutchinson2023enhancement_singletm1_igg.csv,23,4,heavy|light|Tm1 (C) IgG Thermostability|fitness,heavy,light,,Tm1 (C) IgG Thermostability,"{'Tm1 (C) IgG Thermostability': {'n': 23, 'min': 64.0, 'max': 70.5, 'mean': 67.54347826086958}}",0,0.0
+hutchinson2023enhancement_top200tm1_igg.csv,192,4,heavy|light|Tm1 (C) Thermostability (IgG)|fitness,heavy,light,,Tm1 (C) Thermostability (IgG),"{'Tm1 (C) Thermostability (IgG)': {'n': 192, 'min': 55.8, 'max': 73.6, 'mean': 69.51822916666667}}",0,0.0
+hutchinson2023enhancement_top27tm1_igg.csv,28,4,heavy|light|Tm1 (C) IgG Thermostability|fitness,heavy,light,,Tm1 (C) IgG Thermostability,"{'Tm1 (C) IgG Thermostability': {'n': 28, 'min': 58.8, 'max': 73.4, 'mean': 69.91785714285714}}",0,0.0
+jain2017biophysical_Tm.csv,137,4,heavy|light|Fab Tm by DSF (°C)|fitness,heavy,light,,Fab Tm by DSF (°C),"{'Fab Tm by DSF (°C)': {'n': 137, 'min': 59.5, 'max': 91.5, 'mean': 71.28467153284672}}",0,0.0
+jain2024assessment_Tm.csv,43,3,heavy|light|Fab Tm by DSF (°C),heavy,light,,Fab Tm by DSF (°C),"{'Fab Tm by DSF (°C)': {'n': 43, 'min': 65.5, 'max': 85.0, 'mean': 76.30232558139535}}",0,0.0
+rosace2023automated_tm1_adalimumab.csv,14,4,heavy|light|Tm (C) rep1|fitness,heavy,light,,Tm (C) rep1,"{'Tm (C) rep1': {'n': 14, 'min': 52.3, 'max': 66.9, 'mean': 63.035714285714285}}",0,0.0
+rosace2023automated_tm1_golimumab.csv,5,4,heavy|light|Tm (C) rep1|fitness,heavy,light,,Tm (C) rep1,"{'Tm (C) rep1': {'n': 5, 'min': 62.4, 'max': 65.6, 'mean': 63.94}}",0,0.0
+shanehsazzadeh2023unlocking_DLS.csv,13,4,heavy|light|DLS - Cumulant PDI|fitness,heavy,light,,DLS - Cumulant PDI,{},0,0.0
+shanehsazzadeh2023unlocking_DSF1.csv,13,4,heavy|light|DSF - IP #1 (oC)|fitness,heavy,light,,DSF - IP #1 (oC),{},0,0.0
+shanehsazzadeh2023unlocking_DSF2.csv,13,4,heavy|light|DSF - IP #2 (oC)|fitness,heavy,light,,DSF - IP #2 (oC),{},0,0.0
+sulea2019assisted_sdAb_tm.csv,33,5,heavy|Tm|Units|Assay/Protocol|fitness,heavy,,,Tm,"{'Tm': {'n': 33, 'min': 70.8, 'max': 81.9, 'mean': 78.11818181818181}}",0,
+tresanco2023nbthermo_tm.csv,672,5,heavy|Tm measurement|Tm Type|Origin|fitness,heavy,,,Tm measurement|Tm Type,"{'Tm measurement': {'n': 672, 'min': 39.0, 'max': 98.2, 'mean': 67.47991071428571}}",0,

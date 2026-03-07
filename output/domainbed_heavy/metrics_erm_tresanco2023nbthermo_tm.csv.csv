@@ -1,0 +1,2 @@
+split,domain,mae,rmse,r2
+holdout,tresanco2023nbthermo_tm.csv,10.388991355895996,12.891227722167969,-0.6235135404648864
