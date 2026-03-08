@@ -1,0 +1,24 @@
+{
+  "holdout_pair": {
+    "thermo_source": "jain2017biophysical_Tm.csv",
+    "expr_source": "garbinski2023",
+    "shared_heavy": 137
+  },
+  "thermo_holdout_experiment": {
+    "acc": 0.49635036496350365,
+    "auc": 0.5273972602739726,
+    "n_train": 1173,
+    "n_test": 137
+  },
+  "expression_holdout_experiment": {
+    "acc": 0.5401459854014599,
+    "auc": 0.5213219616204691,
+    "n_train": 15339,
+    "n_test": 137
+  },
+  "combined_hidden_pair": {
+    "acc": 0.6277372262773723,
+    "auc": 0.5281892021022456,
+    "n_test": 137
+  }
+}
